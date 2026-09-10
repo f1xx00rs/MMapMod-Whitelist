@@ -5,7 +5,17 @@
     "enable": "true"
   },
   {
+    "name": "Miha_Sochi_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "lookklp",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "lookklp_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -15,7 +25,17 @@
     "enable": "true"
   },
   {
+    "name": "lo0kklp_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "mordvin174",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "mordvin174_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -25,7 +45,17 @@
     "enable": "true"
   },
   {
+    "name": "DOMRABOTNIK_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "NIKOLA1244",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "NIKOLA1244_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -35,7 +65,17 @@
     "enable": "true"
   },
   {
+    "name": "GLuHoMec_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "0neLoyd",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "0neLoyd_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -45,7 +85,17 @@
     "enable": "true"
   },
   {
+    "name": "Bluetooth_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "speak",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "speak_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -55,7 +105,17 @@
     "enable": "true"
   },
   {
+    "name": "Studio_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "BbITaJIKuBaTeJIb_DAynov",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "BbITaJIKuBaTeJIb_DAynov_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -65,7 +125,17 @@
     "enable": "true"
   },
   {
+    "name": "domrabotnik18_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "TooSlooow",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "TooSlooow_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -75,7 +145,17 @@
     "enable": "true"
   },
   {
+    "name": "OTPA60TKA_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "Razzmot",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "Razzmot_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -85,7 +165,17 @@
     "enable": "true"
   },
   {
+    "name": "_KPOXA1__RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "KTO_cTaTict_ToT_Rak",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "KTO_cTaTict_ToT_Rak_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -95,7 +185,27 @@
     "enable": "true"
   },
   {
+    "name": "tem4ik_hake_2022_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "tem4ik_haker",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "tem4ik_haker_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "WitaminPP",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "WitaminPP_RU",
     "freemod": "true",
     "enable": "true"
   },
@@ -105,7 +215,17 @@
     "enable": "true"
   },
   {
+    "name": "darking1945_RU",
+    "expire": "30/09/2026",
+    "enable": "true"
+  },
+  {
     "name": "feliks321",
+    "expire": "30/09/2026",
+    "enable": "true"
+  },
+  {
+    "name": "feliks321_RU",
     "expire": "30/09/2026",
     "enable": "true"
   },
@@ -115,7 +235,17 @@
     "enable": "true"
   },
   {
+    "name": "Offavirence_RU",
+    "expire": "23/01/2027",
+    "enable": "true"
+  },
+  {
     "name": "MrAkObEc",
+    "expire": "23/01/2027",
+    "enable": "true"
+  },
+  {
+    "name": "MrAkObEc_RU",
     "expire": "23/01/2027",
     "enable": "true"
   }
