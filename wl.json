@@ -40,17 +40,17 @@
     "enable": "true"
   },
   {
-    "name": "Bluetooth_RU",
+    "name": "Bluetooth",
     "freemod": "true",
     "enable": "true"
   },
   {
-    "name": "speak_RU",
+    "name": "speak",
     "freemod": "true",
     "enable": "true"
   },
   {
-    "name": "Studio_RU",
+    "name": "Studio",
     "freemod": "true",
     "enable": "true"
   },
