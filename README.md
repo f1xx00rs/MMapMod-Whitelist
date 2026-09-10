@@ -1,1 +1,1 @@
-# MMapMod-Whitelist
+Whitelist for Minimaps Mod (lookklp)
