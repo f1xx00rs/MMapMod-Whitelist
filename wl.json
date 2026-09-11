@@ -140,6 +140,16 @@
     "enable": "true"
   },
   {
+    "name": "MadFaces",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
+    "name": "MadFaces_RU",
+    "freemod": "true",
+    "enable": "true"
+  },
+  {
     "name": "OTPA60TKA",
     "freemod": "true",
     "enable": "true"
